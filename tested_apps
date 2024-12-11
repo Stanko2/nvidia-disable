@@ -1,0 +1,9 @@
+# Apps that are tested and working with disabled NVIDIA GPU
+# Feel free to add your other apps here, regex is supported
+zed:
+.*gnome.*:
+spotify:--disable-gpu
+slack:--disable-gpu
+pavucontrol:
+telegram:
+google-chrome:--disable-gpu
